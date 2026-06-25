@@ -1,0 +1,14 @@
+:root {
+  --navy: #0A1A2F;
+  --silver: #C0C0C0;
+  --white: #FFFFFF;
+  --gray: #6B7280;
+
+  --font-serif: 'Playfair Display', serif;
+  --font-sans: 'Inter', sans-serif;
+}
+
+body {
+  background: var(--navy);
+  color: var(--white);
+}
